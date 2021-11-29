@@ -34,7 +34,7 @@ namespace BBCTest.Pages
         public IWebElement SigninName;
 
         string account = "Your account";
-        string password = "Armaan232407@";
+        string password = "**********";
         string username = "sheetal_jn@hotmail.com";
 
         public void ClickSignIn()
